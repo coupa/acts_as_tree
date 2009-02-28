@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
-  s.name = 'coupa-acts_as_tree'
-  s.version = '1.0.20090228'
-  s.date = '2009-02-28'
+  s.name = 'acts_as_tree'
+  s.version = '1.0.20090229'
+  s.date = '2009-02-27'
   
   s.summary = "Overrides some basic methods for the current model so that calling " +
     "#destroy sets a 'deleted_at' field to the current timestamp.  ActiveRecord is required."
